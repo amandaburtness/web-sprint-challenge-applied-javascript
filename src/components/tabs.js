@@ -5,7 +5,7 @@
   // then the function returns the markup below.
   // The tags used, the hierarchy of elements and their attributes must match the provided markup!
   // The text inside elements will be set using their `textContent` property (NOT `innerText`).
-  //
+  // 
   // <div class="topics">
   //   <div class="tab">javascript</div>
   //   <div class="tab">bootstrap</div>

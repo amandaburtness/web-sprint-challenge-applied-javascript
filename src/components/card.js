@@ -13,7 +13,7 @@ import axios from "axios"
   //     <div class="img-container">
   //       <img src={ authorPhoto }>
   //     </div>
-  //     <span>By { authorName }</span>
+  //     <span>By { authorName }</span> 
   //   </div>
   // </div>
   //
